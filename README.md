@@ -1,2 +1,11 @@
 # discord-spammer
-raiding servers
+
+
+
+import sys
+
+import subprocess
+
+import os
+
+from time import sleep
